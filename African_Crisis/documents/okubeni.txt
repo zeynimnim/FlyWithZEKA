@@ -1,0 +1,11 @@
+Class sonucunun tahmin edilmesini istediðiniz örnek, csv dosyasýnýn 1. satýrýnda
+olmalýdýr.
+Ve uygulamayý çalýþtýrmadan önce documents dosyasýnda sadece
+  african_crises.csv
+  ikon.jpg
+  okubeni.txt
+belgelerinin bulunduðundan emin olunuz.
+
+
+ZEKA 1.0.0
+Zeynep Environment for Knowledge Analysis
