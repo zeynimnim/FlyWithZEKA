@@ -21,21 +21,20 @@ Logistic Regression gave 98.111% accuracy which is the best result among these 5
 
 So I choose logistic regression, and I can predict that an African country will suffer or will not suffer an economic crisis this year with a probability of 98.111%.
 
-# Please download African_Crisis zip, in this file you will African_Crisis/documents/.. theese: 
+## Please download African_Crisis zip, in this file you will African_Crisis/documents/.. theese: 
 
-## .settings
+ #### .settings
+ #### bin
 
-## bin
+#### documents:
+ african_crisis (csv file)
+ ikon (jpg fot GUI)
+ okubeni (readMe)
 
-## documents:
-#### african_crisis
-#### ikon
-#### okubeni
-
-## src:
-#### weka (java project)
-#### african_crisis (csv file)
-#### ikon (jpg fot GUI)
+#### src:
+ weka (java project)
+ african_crisis (csv file)
+ ikon (jpg fot GUI)
 
 
 
